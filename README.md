@@ -42,14 +42,6 @@
 
 - **강화학습(DQN) 기반 자율적인 Object Tracking system**
   - 환경과 Agent 간의 상호작용을 통해 이미지 입력을 받아 특징 추출하고 기타 정보를 FC Layer에 합하여 최종적으로 각 행동의 Q 값을 계산해 최적의 행동을 선택
- 
-  - **State**
-    - CNN Layer
-      - 4 step image
-    - Fully Connected Layer
-   
-  - **Action**
-  - **Reward**
 
 ---
 ##  실헙 결과
