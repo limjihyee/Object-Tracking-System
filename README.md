@@ -36,9 +36,9 @@
   - Heatmap 기반 접근 방식 : 객체 중심 위치의 가능성을 나타내는 공간적 맵인 Heatmap을 이용해 객체 중심 추적 모델 생성
 
 ### Vehicle tracking pipeline
-<img width="608" height="421" alt="image" src="https://github.com/user-attachments/assets/13362b6b-59a7-409b-b78d-1f7ed34e9685" />
+<img width="601" height="421" alt="image" src="https://github.com/user-attachments/assets/13362b6b-59a7-409b-b78d-1f7ed34e9685" />
 
-<img width="594" height="205" alt="image" src="https://github.com/user-attachments/assets/4f55f97f-cfef-4ee3-9faa-533f33b7f46e" />
+<img width="601" height="205" alt="image" src="https://github.com/user-attachments/assets/4f55f97f-cfef-4ee3-9faa-533f33b7f46e" />
 
 - **강화학습(DQN) 기반 자율적인 Object Tracking system**
   - 환경과 Agent 간의 상호작용을 통해 이미지 입력을 받아 특징 추출하고 기타 정보를 FC Layer에 합하여 최종적으로 각 행동의 Q 값을 계산해 최적의 행동을 선택
