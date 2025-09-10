@@ -31,7 +31,7 @@
 ### Vehicle detection pipeline
 <img width="601" height="243" alt="image" src="https://github.com/user-attachments/assets/57b3908e-dae1-4fbb-ab77-d188d7e6b55b" />
 
-- ** Self-Attection, Heatmap 기반 CNN Regression Object Detection model 생성**
+- **Self-Attection, Heatmap 기반 CNN Regression Object Detection model 생성**
   - Self-Attection Module : 각 픽셀 간 관계를 파악해 Enhanced Feature 추출
   - Heatmap 기반 접근 방식 : 객체 중심 위치의 가능성을 나타내는 공간적 맵인 Heatmap을 이용해 객체 중심 추적 모델 생성
 
@@ -69,18 +69,18 @@
   - 충분한 에피소드 학습 후, 모든 환경에서 보상이 일정 수준 이상으로 수렴
 
 ---
-결론
-• 높은 검출 성능 유지
+## 결론
+- 높은 검출 성능 유지
 Self-Attention 모듈을 포함한 Heatmap+Regression 기반 CNN 검출기는 복잡한 도시 환경과 부분 가림 상황에서도 높은 검출 정확도를 안정적으로 유지함
 
-• 강인한 추적 성능
+- 강인한 추적 성능
 통합 DQN 추적 시스템은 기존 Rule-based 방식 대비 탐지율 및 거리 유지 능력에서 우수한 성능을 보임
 
-• 다양한 환경 적응력
+- 다양한 환경 적응력
 고가도로, 터널, 야간, 안개 등 복잡한 환경 요소와 조도·기상 조건에서도 충분한 학습 후 보상이 일정 수준 이상으로 수렴, 다양한 환경에서 안정적인 추적 제어가 가능함을 실험적으로 입증함
 
 ---
-## 🔗 팀원 소개
+## 팀원 소개
 
 <table>
   <tr align="center">
