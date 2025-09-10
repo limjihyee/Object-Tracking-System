@@ -3,7 +3,7 @@
 **UAV-Assisted Moving Object Detection and Tracking Using Deep Reinforcement Learing  in Urban Environments**
 
 
-## 🎥 simulation
+## simulation
 [![유튜브 영상](https://img.youtube.com/vi/EVtdZAfZa-Q/0.jpg)](https://youtu.be/EVtdZAfZa-Q?si=5fJHvjpOULmeR-Ig)
 
 ---
