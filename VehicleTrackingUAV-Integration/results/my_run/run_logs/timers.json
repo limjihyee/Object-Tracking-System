@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1724908968",
+        "python_version": "3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\MNL431\\Anaconda3\\Scripts\\mlagents-learn C:\\Users\\MNL431\\Desktop\\pcw\\My project (2)\\config\\trainer_config.yaml --run-id=my_run --train --force",
+        "mlagents_version": "0.29.0",
+        "mlagents_envs_version": "0.29.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1724909060"
+    },
+    "total": 92.36392120000001,
+    "count": 1,
+    "self": 0.008550400000018499,
+    "children": {
+        "run_training.setup": {
+            "total": 0.18924699999999994,
+            "count": 1,
+            "self": 0.18924699999999994
+        },
+        "TrainerController.start_learning": {
+            "total": 92.1661238,
+            "count": 1,
+            "self": 9.449999998878411e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 92.1660112,
+                    "count": 1,
+                    "self": 92.1660112
+                },
+                "TrainerController._save_models": {
+                    "total": 1.810000000546097e-05,
+                    "count": 1,
+                    "self": 1.810000000546097e-05
+                }
+            }
+        }
+    }
+}
