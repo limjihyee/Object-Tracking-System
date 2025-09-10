@@ -5,7 +5,8 @@
 
 ## 🎥 simulation
 
-![ITRC영상](https://github.com/user-attachments/assets/283610cf-ef47-44b2-b8ff-b41005492758)
+<img src="https://github.com/user-attachments/assets/283610cf-ef47-44b2-b8ff-b41005492758" width="799" height="505">
+
 
 ---
 
