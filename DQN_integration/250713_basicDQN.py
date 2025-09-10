@@ -214,7 +214,7 @@ class Agent:
 
         #vehicle_name = "RedCar"
         
-        model_path = r"D:/cnn_Integration/CNN_detection/models/0813.h5"
+        model_path = r"D:/models/0813.h5"
         
         # QuantizeScope 내에서 모델 로드
         with tfmot.quantization.keras.quantize_scope():
