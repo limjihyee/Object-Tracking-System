@@ -128,8 +128,8 @@ load = False # 모델을 불러올지 여부 False의 경우 새로운 모델 �
 date_time = datetime.datetime.now().strftime("%Y%m%d%H%M%S") # 현재 날짜와 시간을 문자열로 변환
 save_path = f"./best_model/{date_time}.pkl" # 모델 저장 경로
 load_path = f"./best_model/obstacle.pkl" # 불러올 모델 경로로
-project_exe = "../build/build_final/project_250630_Sunny_integration.exe" #실행 프로젝트 파일  --> 원래 거
-#project_exe = "../build/build_final/project_250724_mini.exe" # mini 실행 프로젝트 파일
+project_exe = "../build_final/project_250630_Sunny_integration.exe" #실행 프로젝트 파일  --> 원래 거
+#project_exe = "../build_final/project_250724_mini.exe" # mini 실행 프로젝트 파일
 
 # wandb 에서 실험 추적 및 시각화 
 wandb.init(
