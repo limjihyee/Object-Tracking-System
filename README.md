@@ -26,7 +26,7 @@
 
 ## System Architecture
 ### Overall system architecture
-<img width="601" height="243" alt="image" src="https://github.com/user-attachments/assets/a95dd259-e143-4800-a24a-e280ed14adf8" />
+<img width="601" height="300" alt="image" src="https://github.com/user-attachments/assets/a95dd259-e143-4800-a24a-e280ed14adf8" />
 
 ### Vehicle detection pipeline
 <img width="601" height="243" alt="image" src="https://github.com/user-attachments/assets/57b3908e-dae1-4fbb-ab77-d188d7e6b55b" />
