@@ -1,0 +1,2 @@
+light : 경량화
+original : 경량화 전 가장 최신
