@@ -4,7 +4,6 @@
 
 
 ## 🎥 simulation
-![ITRC영상](https://github.com/user-attachments/assets/283610cf-ef47-44b2-b8ff-b41005492758)
 [![유튜브 영상](https://img.youtube.com/vi/EVtdZAfZa-Q/0.jpg)](https://youtu.be/EVtdZAfZa-Q?si=5fJHvjpOULmeR-Ig)
 
 ---
