@@ -47,7 +47,7 @@ ICT-Express : [https://www.sciencedirect.com/science/article/pii/S24059595250015
   - 환경과 Agent 간의 상호작용을 통해 이미지 입력을 받아 특징 추출하고 기타 정보를 FC Layer에 합하여 최종적으로 각 행동의 Q 값을 계산해 최적의 행동을 선택
 
 ---
-##  실헙 결과
+##  실험 결과
 <img width="504" height="150" alt="image" src="https://github.com/user-attachments/assets/b48a3a42-73ea-461d-a9c3-b4dc03586be0" />
 
 - Regression과 Heatmap의 적절한 조합 3:7에서 가장 낮은 픽셀 오차
