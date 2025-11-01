@@ -2,6 +2,8 @@
 
 **UAV-Assisted Moving Object Detection and Tracking Using Deep Reinforcement Learing  in Urban Environments**
 
+ICT-Express : [https://www.sciencedirect.com/science/article/pii/S2405959525001535](https://www.sciencedirect.com/science/article/pii/S2405959525001535)
+한국통신학회 (우수논문상) : [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12361463](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12361463)
 
 ## simulation
 [![유튜브 영상](https://img.youtube.com/vi/EVtdZAfZa-Q/0.jpg)](https://youtu.be/EVtdZAfZa-Q?si=5fJHvjpOULmeR-Ig)
