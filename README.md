@@ -34,8 +34,8 @@ ICT-Express : [https://www.sciencedirect.com/science/article/pii/S24059595250015
 ### Vehicle detection pipeline
 <img width="601" height="243" alt="image" src="https://github.com/user-attachments/assets/57b3908e-dae1-4fbb-ab77-d188d7e6b55b" />
 
-- **Self-Attection, Heatmap 기반 CNN Regression Object Detection model 생성**
-  - Self-Attection Module : 각 픽셀 간 관계를 파악해 Enhanced Feature 추출
+- **Self-Attenction, Heatmap 기반 CNN Regression Object Detection model 생성**
+  - Self-Attenction Module : 각 픽셀 간 관계를 파악해 Enhanced Feature 추출
   - Heatmap 기반 접근 방식 : 객체 중심 위치의 가능성을 나타내는 공간적 맵인 Heatmap을 이용해 객체 중심 추적 모델 생성
 
 ### Vehicle tracking pipeline
