@@ -51,7 +51,7 @@ ICT-Express : [https://www.sciencedirect.com/science/article/pii/S24059595250015
 <img width="504" height="150" alt="image" src="https://github.com/user-attachments/assets/b48a3a42-73ea-461d-a9c3-b4dc03586be0" />
 
 - Regression과 Heatmap의 적절한 조합 3:7에서 가장 낮은 픽셀 오차
-- Heatmap + Regressiino 구조로 기존 회귀 단일 방식 대비 높은 예측 정확도 확보
+- Heatmap + Regression 구조로 기존 회귀 단일 방식 대비 높은 예측 정확도 확보
 
 <img width="435" height="297" alt="image" src="https://github.com/user-attachments/assets/eff6f0d0-e108-4e6a-b014-78dc29db5605" />
 
